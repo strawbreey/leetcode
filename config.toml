@@ -3,6 +3,8 @@ baseURL = "https://example.com"
 languageCode = "zh-Hans"
 theme = "ananke"
 #themesDir = "../.."
+publishDir = "docs"
+
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "zh"
