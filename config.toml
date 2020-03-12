@@ -1,5 +1,5 @@
 title = "LeetCode"
-baseURL = "https://example.com"
+baseURL = "http://leetcode.strawbreey.com/"
 languageCode = "zh-Hans"
 theme = "ananke"
 #themesDir = "../.."
