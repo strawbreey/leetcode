@@ -6,7 +6,7 @@
     <description>Recent content on LeetCode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 11 Mar 2020 19:49:04 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2018 21:14:50 +0800</lastBuildDate>
     
 	<atom:link href="http://leetcode.strawbreey.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,7 +36,7 @@ Tools Yarn We use Yarn for package managment (instead of NPM) because it&amp;rsq
       <pubDate>Mon, 09 Mar 2020 19:05:17 +0800</pubDate>
       
       <guid>http://leetcode.strawbreey.com/posts/command/</guid>
-      <description>hugo 入门指南 </description>
+      <description>hugo 入门指南 测试图片   </description>
     </item>
     
     <item>
@@ -47,6 +47,21 @@ Tools Yarn We use Yarn for package managment (instead of NPM) because it&amp;rsq
       <guid>http://leetcode.strawbreey.com/posts/my-first-post/</guid>
       <description>我的第一个主题 测试ss
 echo &amp;ldquo;# leetcode&amp;rdquo; &amp;raquo; README.md git init git add README.md git commit -m &amp;ldquo;first commit&amp;rdquo; git remote add origin https://github.com/strawbreey/leetcode.git git push -u origin mastergit push -u origin master</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://leetcode.strawbreey.com/about/</link>
+      <pubDate>Sun, 25 Feb 2018 21:14:50 +0800</pubDate>
+      
+      <guid>http://leetcode.strawbreey.com/about/</guid>
+      <description> 企者不立﹔跨者不行﹔ 自见者不明﹔自是者不彰﹔ 自伐者无功﹔自矜者不长。 其在道也，曰：余食赘形。 物或恶之，故有道者不处。 ——老子《道德经 二十四章》
+ 我的博客换过太多太多的地方，现在这又是一个新的开始。虽然我的博客还是叫做无*题目，但是还是有一些变化了。所谓“企者不立”，也就这样，以破除旧有的习惯开始。
+结婚的时候，我的博客写了好多好多有关我老婆的内容，写了我们的婚礼，现在我们的幸福已经不需要向什么地方显示，只需要我们继续相爱下去。我也确实很爱我的酱。
+为什么要将我的老婆叫做酱酱，这是个秘密。但是有一点不是秘密：我喜欢这个名字，她喜欢这个名字。我换了blog位置，我家酱酱也在Bilibili开起了UP主的新生活，虽然是翻译，但每每看到她认真努力的样子，我更是喜欢的不得了。所以，如果你喜欢嘻哈音乐，喜欢搞笑视频，那么不妨关注一下我家的UP～
+这次的Blog，虽然都是自己一点点搞好，但还是借助了很多的帮助，尤其是那些未明的帮助。比如主题 Even 就是来自Github上的好心人的制作。这样的事情接触的多了，感觉这个世界的美好还是更多，更有趣的。
+总之，又一次新的开始，又一次充满未知。
+  </description>
     </item>
     
   </channel>

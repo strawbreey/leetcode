@@ -2,9 +2,9 @@ title = "LeetCode"
 baseURL = "http://leetcode.strawbreey.com/"
 languageCode = "zh-Hans"
 theme = "ananke"
+
 #themesDir = "../.."
 publishDir = "docs"
-
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "zh"
@@ -12,6 +12,23 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+features = ["posts", "shortcodes", "related content", "comments"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    name = "started"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/getting-started/"
+    weight = -100
 
 [sitemap]
   changefreq = "monthly"
@@ -35,6 +52,8 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 24
+  commentoEnable = true
+
 
 [privacy]
   [privacy.disqus]
