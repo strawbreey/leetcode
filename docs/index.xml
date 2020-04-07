@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Git Command</title>
+      <link>http://leetcode.strawbreey.com/posts/git-command/</link>
+      <pubDate>Mon, 16 Mar 2020 19:05:17 +0800</pubDate>
+      
+      <guid>http://leetcode.strawbreey.com/posts/git-command/</guid>
+      <description>git 常用命令  新建分支  git checkout -b master-temp-20200316 推送新分支到远程  git push --set-upstream origin master-temp-20200316 更新  </description>
+    </item>
+    
+    <item>
       <title>Readme</title>
       <link>http://leetcode.strawbreey.com/posts/readme/</link>
       <pubDate>Wed, 11 Mar 2020 19:49:04 +0800</pubDate>
@@ -19,6 +28,15 @@
       <guid>http://leetcode.strawbreey.com/posts/readme/</guid>
       <description>Welcome to the SRC folder for the Gohugo Ananke Theme. The contents of this folder are used to generate CSS and javascript. You may never have to touch anything here, unless you want to more deeply customize your styles.
 Tools Yarn We use Yarn for package managment (instead of NPM) because it&amp;rsquo;s fast and generates a lock file to make dependency management more consistent. The theme&amp;rsquo;s .gitignore file should be kept intact to make sure that all files in the node_modules folder are not pushed to the repository.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript 的 深复制和浅复制</title>
+      <link>http://leetcode.strawbreey.com/posts/object-assign/</link>
+      <pubDate>Wed, 11 Mar 2020 19:44:01 +0800</pubDate>
+      
+      <guid>http://leetcode.strawbreey.com/posts/object-assign/</guid>
+      <description>JavaScript的常见深复制和浅复制的方法 Object.assign let a = {a：a}let b = {b：b}let c = Object.assign({}, a, b)console.log(a)console.log(b)console.log(c)</description>
     </item>
     
     <item>
@@ -45,8 +63,7 @@ Tools Yarn We use Yarn for package managment (instead of NPM) because it&amp;rsq
       <pubDate>Mon, 09 Mar 2020 19:05:17 +0800</pubDate>
       
       <guid>http://leetcode.strawbreey.com/posts/my-first-post/</guid>
-      <description>我的第一个主题 测试ss
-echo &amp;ldquo;# leetcode&amp;rdquo; &amp;raquo; README.md git init git add README.md git commit -m &amp;ldquo;first commit&amp;rdquo; git remote add origin https://github.com/strawbreey/leetcode.git git push -u origin mastergit push -u origin master</description>
+      <description>我的第一个主题 echo &amp;#34;# leetcode&amp;#34; &amp;gt;&amp;gt; README.md git init git add README.md git commit -m &amp;#34;first commit&amp;#34; git remote add origin https://github.com/strawbreey/leetcode.git git push -u origin mastergit push -u origin master </description>
     </item>
     
     <item>

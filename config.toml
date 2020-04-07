@@ -38,9 +38,9 @@ features = ["posts", "shortcodes", "related content", "comments"]
 [params]
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = ""
-  instagram = ""
+  #facebook = ""
+  #twitter = ""
+  #instagram = ""
   youtube = ""
   github = "https://github.com/strawbreey"
   gitlab = ""
